@@ -243,7 +243,8 @@ public class Task1 {
 
 ## Результат:
 
-![image](https://github.com/user-attachments/assets/ae4fc9dc-4712-4ef9-a3dd-c340fd173eb8)
+![image](https://github.com/user-attachments/assets/5a088431-f27c-46f6-ac1b-907ccf7d87af)
+
 
 
 ### Байткод JVM для задачи 1
