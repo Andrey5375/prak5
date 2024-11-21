@@ -337,7 +337,8 @@ public class Task2 {
 
 ## Результат:
 
-![image](https://github.com/user-attachments/assets/176c3e8b-234a-49b9-a4a1-f8d1cedc191c)
+![image](https://github.com/user-attachments/assets/1c32070d-d4c3-4fc0-8fe8-fa1865eb372a)
+
 
 
 ## Задача 4
