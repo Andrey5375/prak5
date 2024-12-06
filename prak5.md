@@ -394,7 +394,7 @@ reboot
 
 ![tet1](https://github.com/user-attachments/assets/2d1e831a-b211-4e1a-8b22-dbb115ff6a4a)
 
-![tet2](https://github.com/user-attachments/assets/0c308f14-e185-4317-8099-cdc04e772df6)
+
 
 ## Полезные ссылки
 
